@@ -1,0 +1,4 @@
+../Src/RNG.c:3:6:RNG_ClockInit	4	static
+../Src/RNG.c:10:6:RNG_Init	8	static
+../Src/RNG.c:19:10:RNG_GetRandom	16	static
+../Src/RNG.c:45:6:RNG_GenerateRandom	32	static
